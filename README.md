@@ -25,14 +25,17 @@ A Streamlit-based application that allows users to upload documents (PDF, DOCX, 
 ## Demo
 Below are some screenshots showcasing the application's functionality:
 
-1. **Chat Interface**
-   ![Chat Interface](image1.png)
+# Project Title
 
-2. **Document Content View**
-   ![Document Content](image2.png)
+## Chat Interface
+![Chat Interface](AI_PDF/image1.png)
 
-3. **Analytics Dashboard**
-   ![Analytics](image3.png)
+## Document Content View
+![Document Content](AI_PDF/image2.png)
+
+## Analytics Dashboard
+![Analytics](AI_PDF/image3.png)
+
 
 ## Installation
 To run this project locally, follow these steps:
